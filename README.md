@@ -1,6 +1,6 @@
 # SQL
 SQL Repo
 <br>
-This repository is dedicated to my daily SQL practice.
+This repository is dedicated to my daily SQL practice where I solve SQL problems, learn new concepts and improve my query skills everyday.
 <br>
-Here, I will solve SQL queries, work on exercises and document my learning everyday.
+SQL is the heart of data engineering.
